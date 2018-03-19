@@ -1,2 +1,2 @@
 # issues-web
-itdida业务系统问题报告
+itdida问题报告
